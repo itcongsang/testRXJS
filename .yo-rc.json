@@ -1,0 +1,9 @@
+{
+  "generator-nextjs-typescript-antd": {
+    "promptValues": {
+      "displayName": "DemoRX",
+      "fullname": "Demo RX",
+      "email": "stitcongsang@gmail.com"
+    }
+  }
+}
